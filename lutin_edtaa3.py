@@ -1,7 +1,6 @@
 #!/usr/bin/python
-import lutinModule as module
-import lutinTools as tools
-import lutinTools
+import lutin.module as module
+import lutin.tools as tools
 
 def get_desc():
 	return "edtaa3 library (create distance field from image)"
